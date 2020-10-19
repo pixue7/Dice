@@ -285,22 +285,22 @@ void roll(){
     if(randomz == 1){
       ellipse(125, 200, 12, 12);
     }
-    else if(random == 2){
+    else if(randomz == 2){
       ellipse(140, 215, 12, 12);
       ellipse(110, 185, 12, 12);
       }
-      else if(random == 3){
+      else if(randomz == 3){
         ellipse(140, 215, 12, 12);
         ellipse(125, 200, 12, 12);
         ellipse(110, 185, 12, 12);
         }
-          else if(random == 4){
+          else if(randomz == 4){
             ellipse(140, 215, 12, 12);
             ellipse(140, 185, 12, 12);
             ellipse(110, 185, 12, 12);
             ellipse(110, 215, 12, 12);
             }
-            else if(random == 5){
+            else if(randomz == 5){
               ellipse(140, 215, 12, 12);
               ellipse(140, 185, 12, 12);
               ellipse(110, 185, 12, 12);
